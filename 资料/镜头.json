@@ -1,0 +1,30 @@
+[
+  {
+    "id": "f1",
+    "series": "浪阶",
+    "revision": "r1",
+    "language": "zh",
+    "text": "女店员在蓝招牌右边挂起一盏灯。招牌写着“汐窗手作”。"
+  },
+  {
+    "id": "f2",
+    "series": "浪阶",
+    "revision": "r1",
+    "language": "zh",
+    "text": "柜台上一盏灯先亮，来客转身推开侧门。"
+  },
+  {
+    "id": "f3",
+    "series": "岸信",
+    "revision": "r2",
+    "language": "zh",
+    "text": "同样从侧门入内，柜台灯一直亮着，没有拍到开灯。"
+  },
+  {
+    "id": "f4",
+    "series": "浪阶",
+    "revision": "r2",
+    "language": "zh",
+    "text": "重校：挂灯的是橱窗里的倒影，无法据此确认挂灯人。"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "name": "caption-corpus-licensing",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "场记与语料使用文件",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "test": "node --test",
+    "materials": "node materials.js"
+  }
+}

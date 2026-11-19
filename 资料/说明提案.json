@@ -1,0 +1,20 @@
+[
+  {
+    "id": "d1",
+    "language": "zh",
+    "text": "女店员挂好灯后，客人从侧门进来，门边写着“汐窗手作”。",
+    "reportedBasis": "f1、f2"
+  },
+  {
+    "id": "d2",
+    "language": "en",
+    "text": "The shop lamp is already on when the guest enters by the side door.",
+    "reportedBasis": "f3"
+  },
+  {
+    "id": "d3",
+    "language": "zh",
+    "text": "柜台灯亮时有一位来客来到室内。",
+    "reportedBasis": "f2、f3"
+  }
+]
